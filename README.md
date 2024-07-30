@@ -32,7 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-### Data Scraping, Manipulation & Visualisation
+### Data Scraping, Manipulation & Visualization
 | Python3 | Splunk | Pandas | Numpy | SQL |
 |----------|----------|----------|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>  |  <img src="https://www.finsmes.com/wp-content/uploads/2019/08/splunk.png" title="Splunk" alt="Splunk" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>  |  <img src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png" title="SQL" alt="SQL" width="55" height="55"/>  
