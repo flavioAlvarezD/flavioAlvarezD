@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 🚀    Flavio Álvarez here!</h1>
+<h1 align="center">Hey! 🚀  Flavio Álvarez here!</h1>
 <h3 align="center">I'm a Data Scientist with a good mileage and knowledge about Ecommerce.</h3>
 <h3 align="center">Ex-VTEX</h3>
 <h3 align="center"></h3>
@@ -31,10 +31,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-### Data Manipulation & Visualisation
-| Python3 | SQL | Splunk | Pandas | Numpy |
+### Data Scraping, Manipulation & Visualisation
+| Python3 | Splunk | Pandas | Numpy | SQL |
 |----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>  |  <img src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png" title="SQL" alt="SQL" width="55" height="55"/>  |  <img src="https://www.finsmes.com/wp-content/uploads/2019/08/splunk.png" title="Splunk" alt="Splunk" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>  
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>  |  <img src="https://www.finsmes.com/wp-content/uploads/2019/08/splunk.png" title="Splunk" alt="Splunk" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>  |  <img src="https://cdn-icons-png.flaticon.com/512/5816/5816015.png" title="SQL" alt="SQL" width="55" height="55"/>  
 | **Flask** | **Matplotlib** | **Tensorflow** | **Selenium** | **Scikitlearn** |
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="55" height="55"/>  
 
