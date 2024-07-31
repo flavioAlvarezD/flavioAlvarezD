@@ -28,7 +28,7 @@
 📓 Feel free to check my résumé. You can find it on English and Spanish as well.
 <p>Along with some certifications on the same folder:</p>
 <p align="left">
-<a href="https://mega.nz/fm/qP4gQSJT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/8347/8347432.png" alt="flavio-alvarez-dorantes" target="_blank" height="40" width="40" /></a>
+<a href="https://mega.nz/folder/qCJVkJLQ#fgi7IuEuumuDJ61xXIeZeQ" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/8347/8347432.png" alt="flavio-alvarez-dorantes" target="_blank" height="40" width="40" /></a>
 </p>
 
 ### Working on: 🚀
@@ -51,4 +51,4 @@
 ### Ecommerce, Testing, Others:
 | **Postman** | **VTEX** | **Woocommerce** | **Shopify** | **Powershell** |
 |----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman"  alt="Postman" width="55" height="55"/>  |  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKXnRWivb7HnpCTmIS_cf_840Buf2LXoiTg&s" title="VTEX" alt="VTEX" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Woocommerce" alt="Woocommerce" width="55" height="55"/>  |  <img src="https://a.storyblok.com/f/216574/250x250/9813d8be5a/shopify-icon.webp" title="Shopify" alt="Shopify" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell"  alt="C" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="55" height="55"/>  |  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKXnRWivb7HnpCTmIS_cf_840Buf2LXoiTg&s" title="VTEX" alt="VTEX" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Woocommerce" alt="Woocommerce" width="55" height="55"/>  |  <img src="https://a.storyblok.com/f/216574/250x250/9813d8be5a/shopify-icon.webp" title="Shopify" alt="Shopify" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell"  alt="C" width="55" height="55"/>
