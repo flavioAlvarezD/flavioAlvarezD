@@ -25,13 +25,13 @@
 </p>
 <p></p>
 <p></p>
-📓 Feel free to check my résumé. You can find it on English and Spanish as well.
+📓 You're already here so why not go and check my résumé? You can find it on English and Spanish as well.
 <p>Along with some certifications on the same folder:</p>
 <p align="left">
 <a href="https://mega.nz/folder/qCJVkJLQ#fgi7IuEuumuDJ61xXIeZeQ" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/8347/8347432.png" alt="flavio-alvarez-dorantes" target="_blank" height="40" width="40" /></a>
 </p>
 
-### Working on: 🚀
+### Currently working on: 🚀
 
 - Machine Learning 🤖
 - Deep Learning 📚
