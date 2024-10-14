@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flavioalvarezd&label=Profile%20views&color=0e75b6&style=flat" alt="flavioalvarezd" /> </p>
 
-- 🔭 I’m currently working as **Data Scientist on Doto.com.mx**
+- 🔭 I’m currently working as **Bussiness Intelligence Engineer on Doto.com.mx**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
